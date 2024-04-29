@@ -11,6 +11,10 @@ public class CAT {
 		return colour;
 	}
 	//Saenro Gonsalves <aenros0902@gmail.com>
+	public  void getName() {
+		return name;
+		
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
